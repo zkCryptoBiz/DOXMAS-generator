@@ -1,0 +1,172 @@
+Uri: https://meme.brodogonsol.com/
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\index.htm
+Content Type: text/html
+
+Uri: https://meme.brodogonsol.com/img/bg.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\bg.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/img/download.svg
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\download.svg
+Content Type: image/svg+xml
+
+Uri: https://meme.brodogonsol.com/img/none.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\none.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/img/reset.svg
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\reset.svg
+Content Type: image/svg+xml
+
+Uri: https://meme.brodogonsol.com/img/shuffle.svg
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\shuffle.svg
+Content Type: image/svg+xml
+
+Uri: https://meme.brodogonsol.com/img/Sky.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\Sky.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/img/telegram-logo.svg
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\telegram-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://meme.brodogonsol.com/img/x-logo.svg
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\img\x-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://meme.brodogonsol.com/layers/additional/additional_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\additional\additional_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/additional/additional_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\additional\additional_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/additional/additional_2.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\additional\additional_2.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/background/background_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\background\background_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/background/background_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\background\background_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/background/background_11.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\background\background_11.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/background/background_12.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\background\background_12.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/bro/bro_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\bro\bro_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/bro/bro_2.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\bro\bro_2.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/bro/bro_3.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\bro\bro_3.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/bro/bro_4.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\bro\bro_4.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/eyes/eyes_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\eyes\eyes_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/eyes/eyes_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\eyes\eyes_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/eyes/eyes_11.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\eyes\eyes_11.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/hand/hand_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\hand\hand_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/hand/hand_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\hand\hand_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/hand/hand_11.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\hand\hand_11.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/head/head_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\head\head_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/head/head_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\head\head_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/head/head_11.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\head\head_11.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/mouth/mouth_1.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\mouth\mouth_1.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/mouth/mouth_10.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\mouth\mouth_10.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/layers/mouth/mouth_11.png
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\layers\mouth\mouth_11.png
+Content Type: image/png
+
+Uri: https://meme.brodogonsol.com/_next/static/-HvL_s7baCNZsb_8LR-Co/_buildManifest.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\-HvL_s7baCNZsb_8LR-Co\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/-HvL_s7baCNZsb_8LR-Co/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\-HvL_s7baCNZsb_8LR-Co\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/766-31d1d6432bd08cd2.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\766-31d1d6432bd08cd2.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/framework-ecc4130bc7a58a64.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\framework-ecc4130bc7a58a64.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/main-cb4281779d2d79ab.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\main-cb4281779d2d79ab.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/pages/index-3d921c2601ff7695.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\pages\index-3d921c2601ff7695.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/pages/_app-98c0202629281cda.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\pages\_app-98c0202629281cda.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/chunks/webpack-ee7e63bc15b31913.js
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\chunks\webpack-ee7e63bc15b31913.js
+Content Type: application/javascript
+
+Uri: https://meme.brodogonsol.com/_next/static/css/2586b91f5994abf4.css
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\css\2586b91f5994abf4.css
+Content Type: text/css
+
+Uri: https://meme.brodogonsol.com/_next/static/css/ba20451cdaee540a.css
+File Name: C:\Downloaded Web Sites\meme.brodogonsol.com\_next\static\css\ba20451cdaee540a.css
+Content Type: text/css
+
